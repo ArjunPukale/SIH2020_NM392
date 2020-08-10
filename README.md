@@ -1,5 +1,8 @@
 # NM392_Neural-Architects
 ## PS: Depth Estimation of Valles Marineris using ISRO’s Mars Color Camera (MCC) images.
+##
+## Dataset Creation:
+### We were provided 7 images captured from ISRO's MCC camera of Valles Marineris.<br>To use Pix2Pix we need pair wise images of MCC image and corresponding Depth Map.
 ### We are Comparing different models for solving the above problem statement
 ### 1. Pix2Pix using Wessesterian Loss :
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING WASSERSTEIN LOSS
