@@ -3,13 +3,14 @@
 ### We are Comparing different models for solving the above problem statement
 ### 1. Pix2Pix using Wessesterian Loss :
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING WASSERSTEIN LOSS
-![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pix%20Wloss.png)
+![OUTPUT](https://github.com/ArjunPukale/SIH2020_NM392/blob/master/Images/Pix2pix%20Wloss.png)
 ### 2. Pix2Pix using Binary Cross Entropy :
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS, USING Binary Cross Entropy
-![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Pix2pixBCE.PNG)
-### 3. SAT2MAP 
+![OUTPUT](https://github.com/ArjunPukale/SIH2020_NM392/blob/master/Images/Pix2pixBCE.PNG)
+### 3. Sat2Map
+#### Pix2Pix using Pretrained weights used for SAT2MAP (satellite to map) task and training it on our dataset.
 #### THE MODEL WAS TRAINED FOR 120 EPOCHS
-![OUTPUT](https://github.com/AkashKhamkar/NM392_Neural-Architects/blob/master/Images/Sat2map.png)
+![OUTPUT](https://github.com/ArjunPukale/SIH2020_NM392/blob/master/Images/Sat2map.png)
 
 
 ```
